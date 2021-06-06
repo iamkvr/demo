@@ -1,9 +1,7 @@
 {
-    'user':{
-    
-        'id': 1,
-         'firstname': 'KVR',
-         'lastname' :  'Naidu'
-    
+    'user': {
+        "id": 1,
+        "firstName": "Anthony",
+         "lastName": "Sistilli"
     }
 }
